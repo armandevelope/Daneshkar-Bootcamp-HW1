@@ -1,0 +1,11 @@
+{
+  "name": "armansoltnai_hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "arman",
+  "license": "ISC"
+}
